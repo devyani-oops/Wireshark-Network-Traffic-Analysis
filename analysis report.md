@@ -78,6 +78,13 @@ The capture contains 10,866 packets with 416 Expert Info items across three seve
 - QUIC encryption working as expected
 - Mixed TLS versions (common in heterogeneous networks)
 
-### ⚠️ Areas for Investigation
+###  Areas for Investigation
 1. **DNS Reliability**: 12 missing responses suggest DNS server issues
 2. **Connection Stability**: RST packets indicate potential
+
+### RESULTS
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
