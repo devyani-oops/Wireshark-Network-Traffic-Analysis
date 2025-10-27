@@ -83,7 +83,7 @@ The capture contains 10,866 packets with 416 Expert Info items across three seve
 2. **Connection Stability**: RST packets indicate potential
 
 ### RESULTS
-![image alt]()
+![image alt](https://github.com/devyani-oops/Wireshark-Network-Traffic-Analysis/blob/d78881375edbf66ada2054080c8516e0f9609fe0/Screenshot%202025-10-27%20120420.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
