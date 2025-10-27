@@ -87,4 +87,5 @@ The capture contains 10,866 packets with 416 Expert Info items across three seve
 ![image alt](https://github.com/devyani-oops/Wireshark-Network-Traffic-Analysis/blob/bbf69ae364364f53317ce89cddbb990978af8769/Screenshot%202025-10-27%20120450.png)
 ![image alt](https://github.com/devyani-oops/Wireshark-Network-Traffic-Analysis/blob/fb33bde08504e3fe0e03d6011b791d67741af513/Screenshot%202025-10-27%20120515.png)
 ![image alt](https://github.com/devyani-oops/Wireshark-Network-Traffic-Analysis/blob/b9adf2ce0ba80f30990a50ce2ec9c72c9680a8fa/Screenshot%202025-10-27%20120723.png)
-
+**I saved the results in capture.pcapng file**
+![image alt](https://github.com/devyani-oops/Wireshark-Network-Traffic-Analysis/blob/28ce0b2f82203775f19eb0467d1234bf7de92073/Screenshot%202025-10-27%20122333.png)
